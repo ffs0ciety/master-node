@@ -1,0 +1,24 @@
+{
+  "name": "master-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffs0ciety/master-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffs0ciety/master-node/issues"
+  },
+  "homepage": "https://github.com/ffs0ciety/master-node#readme",
+  "dependencies": {
+    "chance": "^1.1.8",
+    "require-dir": "^1.2.0"
+  }
+}
